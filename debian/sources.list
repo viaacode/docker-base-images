@@ -1,3 +1,3 @@
-deb http://debianrepo/debian jessie main contrib non-free
-deb http://debianrepo/debian jessie-updates main contrib non-free
-deb http://debianrepo/debian-security jessie/updates main contrib non-free
+deb http://debianrepo/debian stretch main contrib non-free
+deb http://debianrepo/debian stretch-updates main contrib non-free
+deb http://debianrepo/debian-security stretch/updates main contrib non-free
