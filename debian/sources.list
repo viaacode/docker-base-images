@@ -1,3 +1,2 @@
 deb http://debianrepo/debian stretch main contrib non-free
 deb http://debianrepo/debian stretch-updates main contrib non-free
-deb http://debianrepo/debian-security stretch/updates main contrib non-free
